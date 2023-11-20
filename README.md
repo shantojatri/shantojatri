@@ -11,8 +11,11 @@ I have over 3.5 years of experience as a Software Engineer, with a focus on robu
 ### Statictics
 <table>
   <tr>
-    <td>![Shanto's Stats](https://github-readme-stats.vercel.app/api?username=shantojatri&theme=darcula&show_icons=true&hide_border=true&count_private=true)</td>
-    <td>![Shanto's Leetcode](https://leetcard.jacoblin.cool/kajalshanto?theme=dark&font=Red%20Hat%20Display&ext=activity)</td>
+    
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shantojatri&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Github Stats"></td>
+    <td><a href="https://leetcode.com/kajalshanto/">
+      <img src="https://leetcard.jacoblin.cool/kajalshanto?theme=dark&font=Red%20Hat%20Display&ext=activity" alt="Shanto's Leetcode">
+    </a></td>
   </tr>
 </table>
 
