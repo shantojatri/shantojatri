@@ -9,9 +9,13 @@ I have over 3.5 years of experience as a Software Engineer, with a focus on robu
 - ⚡ Fun fact: ...
 
 ### Statictics
-![Shanto's Stats](https://github-readme-stats.vercel.app/api?username=shantojatri&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<table>
+  <tr>
+    <td>![Shanto's Stats](https://github-readme-stats.vercel.app/api?username=shantojatri&theme=darcula&show_icons=true&hide_border=true&count_private=true)</td>
+    <td>![Shanto's Leetcode](https://leetcard.jacoblin.cool/kajalshanto?theme=dark&font=Red%20Hat%20Display&ext=activity)</td>
+  </tr>
+</table>
 
-![Shanto's Leetcode](https://leetcard.jacoblin.cool/kajalshanto?theme=dark&font=Red%20Hat%20Display&ext=activity)
 
 ### Technology and tools I'm using
 
