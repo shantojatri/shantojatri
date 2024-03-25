@@ -4,7 +4,7 @@
 I have over 3.5 years of experience as a <strong>Software Engineer</strong>, with a focus on robust backend development using PHP and Laravel. Competent with both TypeScript and JavaScript. I have produced scalable and effective solutions for a range of platforms by utilizing the Laravel, Vue and Nuxt frameworks. With my extensive background, I can make a major contribution to the development of complex, useful software solutions.
 
 - 🔭 I’m currently working as a Sofware Engineer @ Jatri
-- 🌱 I’m currently learning advanced Nuxt.js and React.js
+- 🌱 I’m currently learning advanced Nuxt.js, Docker and Kubenates
 - 💬 Ask me about Vue.js, Nuxt.js, PHP, MySql, Larvel and REST api development
 - ⚡ Hobbies: Playing Chess, Travelling, Watching Movies
 
