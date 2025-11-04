@@ -107,7 +107,7 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
   </tr>
 </table>
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### ✨ Fun Fact  
 - “A **good engineer** isn’t the one who knows everything, but the one who knows **how to learn and find anything** quickly.” 😎 
