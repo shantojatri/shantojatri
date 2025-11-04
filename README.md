@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm **Hasibul Hasan (Shanto)**  
 ![Header](https://github.com/shantojatri/shantojatri/blob/main/github-header-image%20(10).png)
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ### 🧑‍💻 About Me  
@@ -22,7 +22,7 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
 
 
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 📌 Quick Facts
 - 🔭 Building and maintaining scalable systems as a **Software Engineer-II @ [Jatri](https://jatri.co)**  
@@ -31,7 +31,7 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
 - 💬 Ask me about **Laravel**, **NestJS**, **PostgreSQL**, **MongoDB**, **Vue.JS**, **Nuxt.JS**, **GraphQL**, and **REST API development**
 <!-- - 🧪 Improving test coverage and reliability using **Jest** and **automated CI/CD pipelines**   --> 
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### ⚡ Skills & Mindset  
 - 🚀 **Quick Learner** — Constantly adopting new tools and frameworks to improve productivity  
@@ -39,7 +39,7 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
 - 💡 **Team-Oriented Problem Solver** — Collaborative, proactive, and detail-focused  
 - 🔧 **Craftsman Mindset** — Believe in writing code that’s as elegant as it is efficient  
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🧰 Technology & Tools  
 
@@ -69,14 +69,14 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
 </p>
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🎯 Hobbies & Interests  
 - ♟️ Playing Chess — enhances my strategic thinking  
 - 🌍 Travelling — broadens creativity and cultural understanding  
 - 📚 Reading Books — fuels continuous learning and innovation
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -91,7 +91,7 @@ By leveraging **GraphQL** for efficient data communication, **PostgreSQL** for r
   </a>
 </p>
 
-⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 📈 Statistics  
 <table>
